@@ -21,11 +21,11 @@ body {
     width: 100%;
     align-items: center;
     padding-left:16px;
-    padding-right: 166px;
+    padding-right: 116px;
 }
 
 .header img {
-    height: 150px;
+    height: 100px;
 }
 
 .header h2 {
